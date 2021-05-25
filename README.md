@@ -5,12 +5,10 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/richardsonchrisj/eyetracking">
+  <a href="https://github.com/richardsonchrisj/eye_tracker">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,14 +17,14 @@
   <p align="center">
     Eyes that follow you everywhere.
     <br />
-    <a href="https://github.com/richardsonchrisj/eyetracking"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/richardsonchrisj/eye_tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/richardsonchrisj/eyetracking">View Demo</a>
+    <a href="https://github.com/richardsonchrisj/eye_tracker">View Demo</a>
     ·
-    <a href="https://github.com/richardsonchrisj/eyetracking/issues">Report Bug</a>
+    <a href="https://github.com/richardsonchrisj/eye_tracker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/richardsonchrisj/eyetracking/issues">Request Feature</a>
+    <a href="https://github.com/richardsonchrisj/eye_tracker/issues">Request Feature</a>
   </p>
 </p>
 
@@ -38,10 +36,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+   </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -54,6 +49,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -61,14 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-### Built With
-
-* []()
-* []()
-* []()
-
+[![Product Name Screen Shot][product-screenshot]]
 
 
 <!-- GETTING STARTED -->
@@ -76,30 +65,17 @@
 
 To get a local copy up and running, you can simply add the code from eyes.js to your website along with the "eyes" class from index.html and the styles from styles.css.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/richardsonchrisj/eyetracking.git
+   git clone https://github.com/richardsonchrisj/eye_tracker.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/richardsonchrisj/eyetracking/issues) for a list of proposed features (and known issues).
-
-
+See the [open issues](https://github.com/richardsonchrisj/eye_tracker/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -112,22 +88,26 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
 
 Chris Richardson - [@CRichardsonDev](https://twitter.com/CRichardsonDev) - chris@chrisrichardson.dev
 
-Project Link: [https://github.com/richardsonchrisj/eyetracking](https://github.com/richardsonchrisj/eyetracking)
+Project Link: [https://github.com/richardsonchrisj/eye_tracker](https://github.com/richardsonchrisj/eye_tracker)
 
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Pages](https://pages.github.com)
+* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+* [JVectorMap](http://jvectormap.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
