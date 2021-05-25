@@ -132,14 +132,14 @@ Project Link: [https://github.com/richardsonchrisj/eyetracking](https://github.c
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/richardsonchrisj/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/richardsonchrisj/repo/graphs/contributors
+[contributors-url]: https://github.com/richardsonchrisj/eye-tracker/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/richardsonchrisj/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/richardsonchrisj/repo/network/members
+[forks-url]: https://github.com/richardsonchrisj/eye-tracker/network/members
 [stars-shield]: https://img.shields.io/github/stars/richardsonchrisj/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/richardsonchrisj/repo/stargazers
+[stars-url]: https://github.com/richardsonchrisj/eye-tracker/stargazers
 [issues-shield]: https://img.shields.io/github/issues/richardsonchrisj/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/richardsonchrisj/repo/issues
+[issues-url]: https://github.com/richardsonchrisj/eye-tracker/issues
 [license-shield]: https://img.shields.io/github/license/richardsonchrisj/repo.svg?style=for-the-badge
-[license-url]: https://github.com/richardsonchrisj/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/richardsonchrisj/eye-tracker/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/richardsonchrisj
