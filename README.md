@@ -106,8 +106,6 @@ Project Link: [https://github.com/richardsonchrisj/eye_tracker](https://github.c
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [JVectorMap](http://jvectormap.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
