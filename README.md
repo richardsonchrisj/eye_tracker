@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/richardsonchrisj/eyetracking">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">eye_tracker</h3>
@@ -54,21 +54,14 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`richardsonchrisj`, `eyetracking`, `CRichardsonDev`, `chris@chrisrichardson.dev`, `eye_tracker`, `Eyes that follow you everywhere.`
-
 
 ### Built With
 
@@ -81,7 +74,7 @@ Here's a blank template to get started:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running, you can simply add the code from eyes.js to your website along with the "eyes" class from index.html and the styles from styles.css.
 
 ### Prerequisites
 
@@ -101,18 +94,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -143,34 +124,22 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@CRichardsonDev](https://twitter.com/CRichardsonDev) - chris@chrisrichardson.dev
+Chris Richardson - [@CRichardsonDev](https://twitter.com/CRichardsonDev) - chris@chrisrichardson.dev
 
 Project Link: [https://github.com/richardsonchrisj/eyetracking](https://github.com/richardsonchrisj/eyetracking)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/richardsonchrisj/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/richardsonchrisj/repo/graphs/contributors
+[contributors-url]: https://github.com/richardsonchrisj/eye-tracker/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/richardsonchrisj/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/richardsonchrisj/repo/network/members
+[forks-url]: https://github.com/richardsonchrisj/eye-tracker/network/members
 [stars-shield]: https://img.shields.io/github/stars/richardsonchrisj/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/richardsonchrisj/repo/stargazers
+[stars-url]: https://github.com/richardsonchrisj/eye-tracker/stargazers
 [issues-shield]: https://img.shields.io/github/issues/richardsonchrisj/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/richardsonchrisj/repo/issues
+[issues-url]: https://github.com/richardsonchrisj/eye-tracker/issues
 [license-shield]: https://img.shields.io/github/license/richardsonchrisj/repo.svg?style=for-the-badge
-[license-url]: https://github.com/richardsonchrisj/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/richardsonchrisj/eye-tracker/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/richardsonchrisj
