@@ -131,15 +131,16 @@ Project Link: [https://github.com/richardsonchrisj/eyetracking](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/richardsonchrisj/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/richardsonchrisj/eye-tracker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/richardsonchrisj/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/richardsonchrisj/eye-tracker/network/members
-[stars-shield]: https://img.shields.io/github/stars/richardsonchrisj/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/richardsonchrisj/eye-tracker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/richardsonchrisj/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/richardsonchrisj/eye-tracker/issues
-[license-shield]: https://img.shields.io/github/license/richardsonchrisj/repo.svg?style=for-the-badge
-[license-url]: https://github.com/richardsonchrisj/eye-tracker/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/richardsonchrisj/eye_tracker.svg?style=for-the-badge
+[contributors-url]: https://github.com/richardsonchrisj/eye_tracker/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/richardsonchrisj/eye_tracker.svg?style=for-the-badge
+[forks-url]: https://github.com/richardsonchrisj/eye_tracker/network/members
+[stars-shield]: https://img.shields.io/github/stars/richardsonchrisj/eye_tracker.svg?style=for-the-badge
+[stars-url]: https://github.com/richardsonchrisj/eye_tracker/stargazers
+[issues-shield]: https://img.shields.io/github/issues/richardsonchrisj/eye_tracker.svg?style=for-the-badge
+[issues-url]: https://github.com/richardsonchrisj/eye_tracker/issues
+[license-shield]: https://img.shields.io/github/license/richardsonchrisj/eye_tracker.svg?style=for-the-badge
+[license-url]: https://github.com/richardsonchrisj/eye_tracker/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/richardsonchrisj
+[product-screenshot]: screenshot.png
